@@ -19,8 +19,8 @@ This is a simple raytracing project written in **C++**. It renders images based 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-raytracing-repo.git
-cd your-raytracing-repo
+git clone https://github.com/Kaamyab/Ray-Tracing-Engine.git
+cd Ray-Tracing-Engine
 ```
 
 ```bash
